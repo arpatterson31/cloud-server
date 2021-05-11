@@ -6,7 +6,7 @@
 
 ## Links and Resources
 
-- Deployed server - GUI
+- [Deployed express server - GUI](http://cloudserverlab-env.eba-pemdy2tq.us-west-2.elasticbeanstalk.com/)
 - Deployed Server - CLI
 
 ## Process
